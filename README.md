@@ -1,18 +1,7 @@
+![Logo do Projeto](./img/logoEscura.svg)
+  # Calculadora do Agricultor 
 
-  
-
-  
-
-  
-
-# Calculadora do Agricultor ![Logo do Projeto](./img/logoEscura.svg)
-
-  
-
-
-
-
-  
+ 
 
 ## 📌 Sobre o Projeto
 
@@ -42,13 +31,14 @@ Desenvolvimento de uma calculadora agrícola baseada em fórmulas oferecidas pel
 
 ## 🚀 Tecnologias Utilizadas
 
-*  **React:** Biblioteca JavaScript para construção de interfaces de usuário.
-
-*  **Vite:** Ferramenta de build extremamente rápida para desenvolvimento web moderno.
-
--  **Tailwind CSS** – Framework CSS para estilização eficiente.
-
--  **Firebase** – Autenticação, banco de dados NoSQL e hospedagem.
+- Front-end:
+	*  **React:** Biblioteca JavaScript para construção de interfaces de usuário.
+	
+	*  **Vite:** Ferramenta de build extremamente rápida para desenvolvimento web moderno.
+	
+	-  **Tailwind CSS** – Framework CSS para estilização eficiente.
+	
+	-  **Firebase** – Autenticação, banco de dados NoSQL e hospedagem.
 
   
 
